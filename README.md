@@ -31,6 +31,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
     - [Fields](#fields)
     - [File Transfers](#file-transfers)
     - [Forms](#forms)
+    - [Pop-ups](#popups)
     - [GIS](#gis)
     - [Image handling](#image-handling)
     - [Import/Export](#importexport)
@@ -265,6 +266,11 @@ phone numbers.
 * [django-bootstrap3](https://github.com/dyve/django-bootstrap3/) - Use Bootstrap in your Django templates, the Django way.
 * [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.
 * [django-floppyforms](https://github.com/gregmuellegger/django-floppyforms/) - django-floppyforms is an application that gives you full control of the output of forms rendering. The forms API and features are exactly the same as Django’s, the key difference is that fields and widgets are rendered in templates instead of using string interpolation, giving you full control of the output using Django templates.
+
+## Pop-ups
+
+* [django-popup-forms](https://github.com/joinourtalents/django-popup-forms) - django popup forms is an easy way to add forms in popups or modals and make them work fast.
+* [django-widget-tweak](https://github.com/jazzband/django-widget-tweaks) - django-widget-tweak tweaks the form field rendering in templates, not in python-level form definitions. Altering CSS classes and HTML attributes is supported.
 
 ## GIS
 
